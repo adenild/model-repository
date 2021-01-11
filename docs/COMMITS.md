@@ -15,7 +15,7 @@ Nenhuma linha do commit deve ser maior que 100 caractéres. Isso facilita a visu
 Deve ser um desses:
 - **feat**: Uma nova funcionalidade
 - **fix**: Uma correção de bug
-- **docs**: Mudanças unicamente na documentação 
+- **docs**: Mudanças unicamente na documentação
 - **style**: Mudanças que não afetam o código em si (indentação, ponto e vírgula)
 - **refactor**: Uma mudança de código que não adiciona funcionalidades nem corrige nenhum bug
 - **perf**: Uma mudança que melhora o desempenho
@@ -24,7 +24,7 @@ Deve ser um desses:
 
 Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :building_construction: `:building_construction:`
-- :hammer: `:hammer:`
+- :wrench: `:wrench:`
 - :page_facing_up: `:page_facing_up:`
 - :sparkles: `:sparkles:`
 - :recycle: `:recycle:`
@@ -40,5 +40,3 @@ O assunto contém uma rápida descrição do que foi feito:
 
 ### Corpo
 Como no **assunto**, use o passado. Escreva a motivação da implementação ou mudança feita.
-
-
