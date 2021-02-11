@@ -16,21 +16,23 @@ Deve ser um desses:
 - **feat**: Uma nova funcionalidade
 - **fix**: Uma correção de bug
 - **docs**: Mudanças unicamente na documentação
-- **style**: Mudanças que não afetam o código em si (indentação, ponto e vírgula)
+- **deletion**: Remoção de arquivos do projeto
 - **refactor**: Uma mudança de código que não adiciona funcionalidades nem corrige nenhum bug
 - **perf**: Uma mudança que melhora o desempenho
 - **test**: Adiciona novos testes ou corrige os ja existentes
-- **chore**: Mudanças no processo de instalação ou em ferramentas e libs auxiliares
+- **build**: Mudanças no processo de instalação ou em ferramentas e libs auxiliares
+- **wip**: Continuação do desenvolvimento de uma funcionalidade
 
 Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :building_construction: `:building_construction:`
 - :wrench: `:wrench:`
 - :page_facing_up: `:page_facing_up:`
-- :sparkles: `:sparkles:`
+- :wastebasket: `:wastebasket:`
 - :recycle: `:recycle:`
 - :chart_with_upwards_trend: `:chart_with_upwards_trend:`
 - :clipboard: `:clipboard:`
 - :construction: `:construction:`
+- :hammer: `:hammer:`
 
 ### Assunto
 O assunto contém uma rápida descrição do que foi feito:
