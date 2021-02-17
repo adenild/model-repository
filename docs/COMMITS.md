@@ -22,6 +22,7 @@ Deve ser um desses:
 - **test**: Adiciona novos testes ou corrige os ja existentes
 - **build**: Mudanças no processo de instalação ou em ferramentas e libs auxiliares
 - **wip**: Continuação do desenvolvimento de uma funcionalidade
+- **style**: Mudanças relativas à aparência do projeto
 
 Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :building_construction: `:building_construction:`
@@ -33,6 +34,7 @@ Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :clipboard: `:clipboard:`
 - :construction: `:construction:`
 - :hammer: `:hammer:`
+- :person_getting_haircut: `:person_getting_haircut:`
 
 ### Assunto
 O assunto contém uma rápida descrição do que foi feito:
