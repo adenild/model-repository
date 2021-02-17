@@ -32,8 +32,8 @@ Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :recycle: `:recycle:`
 - :chart_with_upwards_trend: `:chart_with_upwards_trend:`
 - :clipboard: `:clipboard:`
-- :construction: `:construction:`
 - :hammer: `:hammer:`
+- :construction: `:construction:`
 - :haircut_man: `:haircut_man:`
 
 ### Assunto
