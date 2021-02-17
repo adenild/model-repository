@@ -34,7 +34,7 @@ Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :clipboard: `:clipboard:`
 - :construction: `:construction:`
 - :hammer: `:hammer:`
-- :person_getting_haircut: `:person_getting_haircut:`
+- :haircut_man: `:haircut_man:`
 
 ### Assunto
 O assunto contém uma rápida descrição do que foi feito:
