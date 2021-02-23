@@ -23,6 +23,7 @@ Deve ser um desses:
 - **build**: Mudanças no processo de instalação ou em ferramentas e libs auxiliares
 - **wip**: Continuação do desenvolvimento de uma funcionalidade
 - **style**: Mudanças relativas à aparência do projeto
+- **new version**: Nova versão completamente implementada
 
 Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :building_construction: `:building_construction:`
@@ -35,6 +36,7 @@ Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :hammer: `:hammer:`
 - :construction: `:construction:`
 - :haircut_man: `:haircut_man:`
+- :tada: `:tada:`
 
 ### Assunto
 O assunto contém uma rápida descrição do que foi feito:
