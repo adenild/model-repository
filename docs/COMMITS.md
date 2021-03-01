@@ -24,6 +24,7 @@ Deve ser um desses:
 - **wip**: Continuação do desenvolvimento de uma funcionalidade
 - **style**: Mudanças relativas à aparência do projeto
 - **new version**: Nova versão completamente implementada
+- **deploy**: Commits relacionados ao deploy da aplicação
 
 Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :building_construction: `:building_construction:`
@@ -37,6 +38,7 @@ Cada tipo tem seu emoji na frente sendo eles, respectivamente:
 - :construction: `:construction:`
 - :haircut_man: `:haircut_man:`
 - :tada: `:tada:`
+- :rocket: `:rocket:`
 
 ### Assunto
 O assunto contém uma rápida descrição do que foi feito:
